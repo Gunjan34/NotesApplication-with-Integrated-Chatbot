@@ -25,7 +25,7 @@ const Signup = () => {
       console.log(response);
       if(response.data.success){
         toast.success("login successfully");
-        navigate("/login");
+        navigate("/");
       }
     } catch (error) {
       console.log(error);
