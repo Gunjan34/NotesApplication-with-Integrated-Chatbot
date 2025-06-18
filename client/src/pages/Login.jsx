@@ -27,7 +27,7 @@ const Login = () => {
         toast.success("login successfully");
         login(response.data.user);
         localStorage.setItem("token",response.data.token);
-     navigate("/");
+     navigate("/home");
       }
       console.log(response);
     } catch (error) {
