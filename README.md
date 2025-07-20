@@ -33,6 +33,7 @@ A modern full-stack **Notes Management Application** that allows users to regist
 
 ---
 
+
 ## 📁 Folder Structure
 
 ```bash
@@ -96,10 +97,6 @@ DELETE	/:id	Delete note by ID
 
 🤖 Chatbot
 Chatbot is accessible at /chatbot route and can provide assistance, tips, or AI-driven responses. You can extend its functionality by integrating with an AI API (like OpenAI or Gemini).
-
-📷 Screenshots
-<img width="1438" height="822" alt="image1" src="https://github.com/user-attachments/assets/77713c26-a463-4b58-96c6-3254e332f3b4" />
-
 
 
 📌 Future Enhancements
