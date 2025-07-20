@@ -98,10 +98,8 @@ DELETE	/:id	Delete note by ID
 Chatbot is accessible at /chatbot route and can provide assistance, tips, or AI-driven responses. You can extend its functionality by integrating with an AI API (like OpenAI or Gemini).
 
 📷 Screenshots
+<img width="1438" height="822" alt="image1" src="https://github.com/user-attachments/assets/77713c26-a463-4b58-96c6-3254e332f3b4" />
 
-<img width="1438" height="822" alt="1" src="https://github.com/user-attachments/assets/98c6d602-5f34-4ac0-9785-11da3a7c3e70" />
-<img width="1893" height="862" alt="2" src="https://github.com/user-attachments/assets/f6ac47b7-8c9e-4397-b66a-5c6029bf17f4" />
-<img width="1223" height="741" alt="3" src="https://github.com/user-attachments/assets/952fbaa9-397a-4968-afa8-7325d0a2915f" />
 
 
 📌 Future Enhancements
